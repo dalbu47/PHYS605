@@ -1,0 +1,3 @@
+https://diotec.com/request/datasheet/bc337.pdf - transistor
+https://www.mouser.com/datasheet/2/294/NJM14558_E-1917245.pdf - opamp
+https://www.st.com/content/ccc/resource/technical/document/datasheet/23/c8/67/d2/47/9c/4e/be/CD00000765.pdf/files/CD00000765.pdf/jcr:content/translations/en.CD00000765.pdf - diode
